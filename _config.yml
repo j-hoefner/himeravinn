@@ -7,16 +7,13 @@ title: test
 description: test Musick
 
 # Your name to show in the footer
-author: Some Person
+author: HiVî
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Musick: "Musick"
+  About: "About"
 
 # --- Logo --- #
 
