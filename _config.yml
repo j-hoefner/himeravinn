@@ -77,22 +77,22 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#050505"
 navbar-text-col: "#F7F7F7"
 navbar-border-col: "#ff7aeb"
 page-col: "#050505"
 link-col: "#ff7aeb"
-hover-col: "#ff7aeb"
-footer-col: "#ff7aeb"
+hover-col: "#FFFFFF"
+footer-col: "#050505"
 footer-text-col: "#F7F7F7"
-footer-link-col: "#F7F7F7"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/follow_me_01.png"
 
 # --- Web Statistics Section --- #
 
