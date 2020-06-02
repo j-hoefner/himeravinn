@@ -12,8 +12,8 @@ author: Vînn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Musick: "Musick"
-  About: "About"
+  Musick: "musick"
+  About: "about"
 
 # --- Logo --- #
 
