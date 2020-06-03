@@ -19,7 +19,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/rect855.png"
+avatar: "/assets/img/rectangular.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -79,13 +79,13 @@ excerpt_length: 50
 
 navbar-col: "#050505"
 navbar-text-col: "#F7F7F7"
-navbar-border-col: "#ff7aeb"
+navbar-border-col: "#adadad"
 page-col: "#050505"
-link-col: "#ff7aeb"
+link-col: "#adadad"
 hover-col: "#FFFFFF"
 footer-col: "#050505"
 footer-text-col: "#F7F7F7"
-footer-link-col: "#050505"
+footer-link-col: "#adadad"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
