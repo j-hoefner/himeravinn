@@ -1,3 +1,7 @@
+---
+title: Lyrics
+---
+
 ## i.\_h.o.w.
 
 \[Verse 01\]  
