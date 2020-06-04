@@ -18,7 +18,7 @@ up in the Hills
 it waits for me  
      and now it's time  
 
-\[Chorus\]
+\[Chorus\]  
 I'm out for the Hills  
 my whereabouts uncertain  
 no farewells preceded this escape  
@@ -34,33 +34,33 @@ Just the keys, some books
 and of course my Lute  
      will be all I need  
 I won't need more  
-wherever I go
-     Horizon closing in
-as trees fly past
-and mountains dance
-     I slowly realise
+wherever I go  
+     Horizon closing in  
+as trees fly past  
+and mountains dance  
+     I slowly realise  
 
-the engine roar my breath
-every turn a heartbeat
-     my limbs are eating asphalt
-symbiosis
+the engine roar my breath  
+every turn a heartbeat  
+     my limbs are eating asphalt  
+symbiosis  
 
-\[Chorus\]
+\[Chorus\]  
 
-\[C part\]
-This is us breaking out
-lest we break down
-up the winding path
-out of the golden cage
+\[C part\]  
+This is us breaking out  
+lest we break down  
+up the winding path  
+out of the golden cage  
 
-Everyone, we're ready
-you'd better have your lobelies up to temperature by now
-and
-be wary of the precipice
+Everyone, we're ready  
+you'd better have your lobelies up to temperature by now  
+and  
+be wary of the precipice  
 
-\[Chorus\]
+\[Chorus\]  
 
-\[Outro\]
-Looming in the distance
-the outpost
-I am finally back
+\[Outro\]  
+Looming in the distance  
+the outpost  
+I am finally back  
