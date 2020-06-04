@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: HiméraVînn
+title: HiméraVînn - story-infused Musick
 
 # Short description of your site
-description: HiméraVînn - story infused Musick
+description: HiméraVînn - story-infused Musick
 
 # Your name to show in the footer
 author: Vînn
@@ -13,6 +13,8 @@ author: Vînn
 
 navbar-links:
   Musick: "musick"
+  Lyrics: "lyrics"
+  Stories: "stories"
   About: "about"
 
 # --- Logo --- #
