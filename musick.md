@@ -7,7 +7,7 @@ title: Musick
 \[Verse 01\]  
 Two winters ago  
 I found this outpost  
-     hidden from most sights  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hidden from most sights  
 While exploring the wild  
 the meadow opened up to me  
      in a valley long sought  
