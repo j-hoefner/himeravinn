@@ -35,10 +35,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  spotify: yourname
-  youtube: user/deanat78
-  facebook: deanattali
-  email: "someone@example.com"
+# spotify: Himeravinn
+# youtube: user/Himeravinn
+# facebook: Himeravinn
+#  email: "someone@example.com"
 #  github: daattali
 #  twitter: daattali
 #  rss: true
