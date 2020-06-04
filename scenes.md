@@ -1,3 +1,7 @@
+---
+title: Scenes
+---
+
 ## 0. The Moonlit Clearing and Their Call
 
 Josef ging aus dem Gebäude. Er war sehr unausgeglichen. Sein Kopf war überfordert mit Dingen, die nicht zu seinen Prioritäten gehörten. Sein Körper hingegen war durstig nach Bewegung und Schlaf gleichzeitig. Die Luft war nicht gut, gerade war ein alter Laster der Stadtwerke vorbeigefahren, den nicht einmal ein bestochener Dorfpolizist würde weiterfahren lassen. Aber sie war besser als die in dem Gefängnis, dass er gerade verlassen hatte. Er fragte sich, wieviele Neuronen in seinem überforderten Gehirn wohl die Assoziation dieses schrecklichen Geruchs mit dem Gefühl von Eingeschlossensein herstellten. Obwohl Eingeschlossensein nur einen Teil des Gefühls beschrieben, letzteres konnte eigentlich an Wirrwarr kaum überboten werden. Genau wie sein Gedankengang. Es wollte nicht aufhören, das Abstellen gelang ihm im Feld noch nicht.
