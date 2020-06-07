@@ -6,6 +6,8 @@ title: Gallery
 
 <div style="text-align: left"> <img src="assets/img/DSC02774.JPG" /> </div>
 
+![portrait](assets/img/DSC02508.PG)
+
 
 ![portrait](assets/img/DSC02485.JPG)  
 
@@ -14,3 +16,4 @@ title: Gallery
 ![portrait](assets/img/DSC02669.JPG)  
 ![portrait](assets/img/DSC02680.JPG)  
   
+[Full size, please.]()
