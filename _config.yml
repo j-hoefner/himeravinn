@@ -16,6 +16,7 @@ navbar-links:
   Lyrics: "lyrics"
   Scenes: "scenes"
   Gallery: "gallery"
+    - Look sharp!: "sharp"
 
 # --- Logo --- #
 
