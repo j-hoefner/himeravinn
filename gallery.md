@@ -2,6 +2,8 @@
 title: Gallery
 ---
 
+![portrait](assets/img/3.JPG)
+
 ![portrait](assets/img/DSC02536.JPG)  
 
 <div style="text-align: left"> <img src="assets/img/DSC02774.JPG" /> </div>
