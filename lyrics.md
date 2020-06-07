@@ -10,13 +10,13 @@ I found this outpost
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hidden from most sights  
 While exploring the wild  
 the meadow opened up to me  
-     in a valley long sought  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in a valley long sought  
 Duty and the task  
 have never let me come again  
-     they were gaining strength  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;they were gaining strength  
 up in the Hills  
 it waits for me  
-     and now it's time  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and now it's time  
 
 \[Chorus\]  
 I'm out for the Hills  
@@ -32,17 +32,17 @@ heading for checkpoint outpost
 \[Verse 02\]  
 Just the keys, some books  
 and of course my Lute  
-     will be all I need  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will be all I need  
 I won't need more  
 wherever I go  
-     Horizon closing in  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horizon closing in  
 as trees fly past  
 and mountains dance  
-     I slowly realise  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I slowly realise  
 
 the engine roar my breath  
 every turn a heartbeat  
-     my limbs are eating asphalt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my limbs are eating asphalt  
 symbiosis  
 
 \[Chorus\]  
@@ -54,7 +54,7 @@ up the winding path
 out of the golden cage  
 
 Everyone, we're ready  
-you'd better have your lobelies up to temperature by now  
+you'd better have your lovelies up to temperature by now  
 and  
 be wary of the precipice  
 
@@ -63,4 +63,4 @@ be wary of the precipice
 \[Outro\]  
 Looming in the distance  
 the outpost  
-I am finally back  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am finally back  
