@@ -4,11 +4,8 @@ title: Gallery
 
 ![portrait](assets/img/DSC02536.JPG)  
 
+<div style="text-align: left"> <img src="assets/img/DSC02774.JPG" /> </div>
 
-
-<div style="text-align: left"> ![portrait](assets/img/DSC02774.JPG) </div>
-
-<div style="text-align: left"> ![portrait](assets/img/DSC02602.JPG) </div>
 
 ![portrait](assets/img/DSC02485.JPG)  
 
