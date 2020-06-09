@@ -2,7 +2,7 @@
 title: Gallery
 ---
 
-![portrait](assets/img/3.JPG)
+![portrait](assets/img/number_03.jpg)
 
 ![portrait](assets/img/DSC02536.JPG)  
 
