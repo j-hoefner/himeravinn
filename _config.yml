@@ -15,7 +15,8 @@ navbar-links:
   Musick: "musick"
   Lyrics: "lyrics"
   Scenes: "scenes"
-  Gallery: "gallery"
+  Gallery:
+    - Gallery: "gallery"
     - Look sharp!: "sharp"
 
 # --- Logo --- #
