@@ -8,7 +8,7 @@ title: Gallery
 
 <div style="text-align: left"> <img src="assets/img/DSC02774.JPG" /> </div>
 
-![portrait](assets/img/DSC02508.PG)
+![portrait](assets/img/DSC02508.JPG)
 
 
 ![portrait](assets/img/DSC02485.JPG)  
