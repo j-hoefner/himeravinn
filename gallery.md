@@ -21,3 +21,4 @@ Photography by Philipp Kotowski
 ![portrait](assets/img/number_08_small.JPG)  
   
 [Full size, please.](https://j-hoefner.github.io/himeravinn/gallery/sharp/)
+
