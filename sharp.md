@@ -2,7 +2,7 @@
 title: Full size images
 ---
 
-![intro_cover](assets/img/follow_me_02.jpg)
+![intro_cover](assets/img/follow_me_02.png)
 
 ![portrait](assets/img/DSC02536.JPG)  
 
