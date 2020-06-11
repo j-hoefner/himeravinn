@@ -2,20 +2,22 @@
 title: Gallery
 ---
 
-![portrait](assets/img/DSC02536.JPG)  
+Photography by Philipp Kotowski
 
-![portrait](assets/img/DSC02774.JPG)  
+![portrait](assets/img/number_01_small.JPG)  
 
-![portrait](assets/img/DSC02508.JPG)  
+![portrait](assets/img/number_02_small.JPG)  
 
-![portrait](assets/img/DSC02485.JPG)  
+![portrait](assets/img/number_03_small.JPG)  
 
-![portrait](assets/img/DSC02739.JPG)  
+![portrait](assets/img/number_04_small.JPG)  
 
-![portrait](assets/img/DSC02550.JPG)  
+![portrait](assets/img/number_05_small.JPG)  
 
-![portrait](assets/img/DSC02669.JPG)  
+![portrait](assets/img/number_06_small.JPG)  
 
-![portrait](assets/img/DSC02680.JPG)  
+![portrait](assets/img/number_07_small.JPG)  
+
+![portrait](assets/img/number_08_small.JPG)  
   
 [Full size, please.](https://j-hoefner.github.io/himeravinn/gallery/sharp/)
