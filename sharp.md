@@ -2,6 +2,8 @@
 title: Full size images
 ---
 
+![intro_cover](assets/img/follow_me_02.jpg)
+
 ![portrait](assets/img/DSC02536.JPG)  
 
 ![portrait](assets/img/DSC02774.JPG)  
