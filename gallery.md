@@ -42,5 +42,5 @@ Photography by Philipp Kotowski
 <br/><br/>
 <br/><br/>
 <br/><br/>
-[Full size, please.](https://j-hoefner.github.io/himeravinn/gallery/sharp/)
+[Full size, please.](https://j-hoefner.github.io/himeravinn/sharp/)
 
