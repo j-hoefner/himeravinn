@@ -6,6 +6,9 @@ Photography by Philipp Kotowski
 
 ![01](assets/img/number_01_small.jpg)  
 
+
+
+
 ![02](assets/img/number_02_small.jpg)  
 
 ![03](assets/img/number_03_small.jpg)  
