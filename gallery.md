@@ -3,7 +3,9 @@ title: Gallery
 ---
 
 Photography by Philipp Kotowski
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ![01](assets/img/number_01_small.jpg)  
 <br/><br/>
 <br/><br/>
