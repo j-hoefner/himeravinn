@@ -10,7 +10,9 @@ Photography by Philipp Kotowski
 
 
 ![02](assets/img/number_02_small.jpg)  
-
+\ 
+\ 
+\ 
 ![03](assets/img/number_03_small.jpg)  
 
 ![04](assets/img/number_04_small.jpg)  
