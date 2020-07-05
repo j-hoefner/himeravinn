@@ -3,7 +3,7 @@ title: Scenes
 ---
 
 ## 0.\_Eine mondbeschienene Lichtung und ein Geladensein
-von Franz Jostberg und Vînn
+*von Franz Jostberg und Vînn*
 
 Den Kopf voll mit Nichts, ging Josef aus dem Gebäude. Ein heilloses Durcheinander im Schädel, leeres Geschwirre von Banalitäten, die ihre Restbedeutung schon lange verloren hatten. Vielleicht ließen sie gerade deshalb nicht los. „Da, wo die Freiheit gegen die Pflicht brandet, krallt sich das Triviale an die letzten Grasbüschel am Klippenrand – er aber war gesprungen.“ Wo kamen diese Worte her?
 
@@ -33,6 +33,7 @@ Sein Heimweg war ein Meisterwerk. Sechseinhalb Jahre Übung hatten seinen Weg ge
 
 Dann der Blick direkt in dieses Gesicht, als er mit gewagter Schräglage und aufsetzender Pedale in seine Straße einbog. In das hellrote Grau seiner Stimmung hinein ein Erkennen und Wiedersehen, endlich eine verbindliche Zusage: Augen schauten ihn an, gemein, fordernd, kraftvoll, ein Versprechen an ein Kind, das die Alte Art zu Träumen noch nicht verlernt hatte. Beim Näherkommen erkannte er ihre beeindruckende Größe, die dennoch irgendwie nicht sperrig wirkte. Unverkennbare Sprache der Linien und Kanten, leicht beschleiert durch den Dreck der letzten Ausfahrt, darunter gegossen in Mitternachtsblau, gekrönt von einer weißen Doppelirokese, elegant beschuht in Schwarz mit weißen Sätteln: so stand sie da und wartete und lockte und lenkte…
 
+***
 
 Er wusste genau, was jetzt zu tun war.  Anfühlen, nachfassen, verstauen – es tat gut, seine Hände so einzusetzen. Mit jedem Griff der Kopf freier, die Perspektive schärfer. Viel wollte er mitnehmen, eine baldige Rückkehr kam nicht in Betracht. Wenn überhaupt. Bücher! Unbedingt! Gab es da ein Zuviel? Zwei Kisten voll, dazu Schreibzeug. Das selbstgebastelte Lesezeichen mit seiner damaligen Lieblingsband drauf, das sie ihm in der zehnten Klasse geschenkt hatte. Klamotten? – wo er hinwollte, musste man sich nicht verkleiden. In ihren überraschend geräumigen Kofferraum passten am Ende zwei Bücherkisten, ein Koffer und seine Gitarre.
 
