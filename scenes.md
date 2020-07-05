@@ -5,6 +5,7 @@ title: Scenes
 ## 0.\_Eine mondbeschienene Lichtung und ein Geladensein
 *von Franz Jostberg und Vînn*
 
+
 Den Kopf voll mit Nichts, ging Josef aus dem Gebäude. Ein heilloses Durcheinander im Schädel, leeres Geschwirre von Banalitäten, die ihre Restbedeutung schon lange verloren hatten. Vielleicht ließen sie gerade deshalb nicht los. „Da, wo die Freiheit gegen die Pflicht brandet, krallt sich das Triviale an die letzten Grasbüschel am Klippenrand – er aber war gesprungen.“ Wo kamen diese Worte her?
 
 Er verließ das Gebäude durch die Hintertür, wie meistens – der Boteneingang. Aufgekratzt, zugleich am Ende seiner Kräfte, und ein brennender Durst nach Bewegung und Schlaf gleichzeitig vermischt mit dem Wissen, dass es erst einmal keine Ruhe geben würde – nicht so und nicht für ihn. Die Luft des Morgens, in die er nun trat fad und verbraucht, schale Überreste einer abgestandenen Nacht. Darin nichts Frisches, kein Hauch von Beginn, kein Versprechen, keine Hoffnung.
