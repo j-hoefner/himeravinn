@@ -18,12 +18,14 @@ Doch auch diesem Gasangriff zum Trotz ging ihm der Atem schon freier als eben no
 
 In Gedanken versunken stand er noch immer neben dem Gebäude. “Schöne Ferien, mein Guter!” – er hatte das Grußwort verpasst. Der Kollege wunderte sich nicht allzu sehr, man kannte ihn für seine fahrige Verträumtheit. “Schöne Ferien”, dachte Josef, jaja, so ein inhaltsbefreites Wortgeklingel, Floskelnwerfen, Phrasenbeten - vom Wünschenden zum Glück nichts mehr zu sehen, eine Antwort wäre bestimmt auch gar nicht erwünscht gewesen.
 
-„Wenn es vorbei ist, geht es los.“, hatten sie gesagt. Groß und schön hatten sie vor ihm auf der waldumkränzten Wiese gestanden. „Halt noch ein bisschen durch.“
+„Wenn es vorbei ist, geht es los.“, hatten sie gesagt.  
+Groß und schön hatten sie vor ihm auf der waldumkränzten Wiese gestanden. „Halt noch ein bisschen durch.“  
 „Ihr seid ein Teil von mir, wie soll ich Euch ernst nehmen?“
-Sie lächelte ihr wunderschönes immer alles schon vorher wissendes „Kleiner-dummer-Josef-Lächeln“, dass ihm die Knie so angenehm weich wurden. „Die Antwort kennst Du.", sagte er.
-Möglich.
-„Das Zeichen wird eindeutig sein“, hatte sie gesagt.
-„Sehr lustig, ich werde das Zeichen doch selbst erfinden.“
+Sie lächelte ihr wunderschönes immer alles schon vorher wissendes „Kleiner-dummer-Josef-Lächeln“, dass ihm die Knie so angenehm weich wurden. „Die Antwort kennst Du.", sagte er.  
+
+Möglich.  
+„Das Zeichen wird eindeutig sein“, hatte sie gesagt.  
+„Sehr lustig, ich werde das Zeichen doch selbst erfinden.“  
 „So stehst Du auf einer Warte, von der Du es nicht sehen wirst“. Seine Stimme. Warum so vertraut, ohne sagen zu können, warum? Und doch schon so weit weg – war es wirklich passiert? Natürlich nur in seinem Kopf, oder?
 
 Und jetzt war es vorbei, er war ‘raus, weg. Sein Geld würde für gut sieben Monate reichen. Danach dann, wer weiß. Wenn er überhaupt so lange…. Egal. Nun also in freiem Fall, zwei fraglichen Geistgestalten folgend, zusammenphantasiert auf einem seiner zahllosen Nachtgänge, ein jämmerlicher Flüchtling. Dennoch, inzwischen bewegte er sich nachts freier als in jedem Licht, kein Gesehenwerden, kein Sehenmüssen, dafür mehr Erblicken. Kein Wunder, dass er nun also auch anfing, Stimmen zu hören, Geister zu sehen. Wie hatten sie eigentlich ausgesehen? Versuche einer Beschreibung füllten mehrere hastige Seiten in seinem Tagebuch. „Ihr Äußeres hatte etwas von der Statik von Zuckerwatte“ - was für ein Schwachsinn.
