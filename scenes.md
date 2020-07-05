@@ -22,7 +22,6 @@ In Gedanken versunken stand er noch immer neben dem Gebäude. “Schöne Ferien,
 Groß und schön hatten sie vor ihm auf der waldumkränzten Wiese gestanden. „Halt noch ein bisschen durch.“  
 „Ihr seid ein Teil von mir, wie soll ich Euch ernst nehmen?“
 Sie lächelte ihr wunderschönes immer alles schon vorher wissendes „Kleiner-dummer-Josef-Lächeln“, dass ihm die Knie so angenehm weich wurden. „Die Antwort kennst Du.", sagte er.  
-
 Möglich.  
 „Das Zeichen wird eindeutig sein“, hatte sie gesagt.  
 „Sehr lustig, ich werde das Zeichen doch selbst erfinden.“  
