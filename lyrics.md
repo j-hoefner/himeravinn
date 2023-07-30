@@ -8,7 +8,7 @@ title: Lyrics
 _Mirage:_
 Access.  
 You have been expected, Vînn.  
-_Josef:_
+_Joseph:_
 Fly!  
 It's been a while.  
 I have been waiting.  
