@@ -22,7 +22,6 @@ A letter on the kitchen table
 Make yourself at home  
 Don't wait for me  
 to come back  
-
 Use the car - it's in the garage  
 will you recognise your room?  
 I provided you with some equipment  
