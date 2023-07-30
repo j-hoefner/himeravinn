@@ -5,10 +5,10 @@ title: Lyrics
 ## iii.\_Glas_im_Schnee
 
 \[Intro\]  
-_Mirage:_
+_Mirage:_  
 Access.  
 You have been expected, Vînn.  
-_Joseph:_
+_Joseph:_  
 Fly!  
 It's been a while.  
 I have been waiting.  
