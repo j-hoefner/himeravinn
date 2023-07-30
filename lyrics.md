@@ -70,7 +70,6 @@ Nur durch eine Tür gegangen
 bleib' ich hier  
 ein ganzes Jahr  
 
-  
 
 ## i.\_h.o.w.
 \[Verse 01\]  
