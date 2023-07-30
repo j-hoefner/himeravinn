@@ -71,7 +71,6 @@ ein ganzes Jahr
   
 
 ## i.\_h.o.w.
-
 \[Verse 01\]  
 Two winters ago  
 I found this outpost  
