@@ -23,7 +23,7 @@ Make yourself at home
 Don't wait for me  
 to come back  
 Use the car - it's in the garage  
-will you recognise your room?  
+Will you recognise your room?  
 I provided you with some equipment  
 you will need  
 
@@ -65,8 +65,10 @@ statt nur des allerletzten Stützpunkts?
 
 \[Outro\]  
 Nur durch eine Tür gegangen  
-Bleib' ich hier  
+bleib' ich hier  
 ein ganzes Jahr  
+
+  
 
 ## i.\_h.o.w.
 
